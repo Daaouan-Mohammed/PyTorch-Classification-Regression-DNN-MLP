@@ -7,9 +7,7 @@ This repository contains the code and documentation for a comprehensive lab focu
 ## Part One: Regression
 
 ### Dataset
-- [NYSE Stock Prices](https://www.kaggle.com/datasets/dgawlik/nyse)
-
-### Tasks Completed
+- [DATASET](https://www.kaggle.com/datasets/dgawlik/nyse)
 
 1. **Exploratory Data Analysis (EDA)**
    - In-depth analysis to understand and visualize the dataset, revealing key features and distributions.
@@ -31,9 +29,7 @@ This repository contains the code and documentation for a comprehensive lab focu
 ## Part Two: Multi-Class Classification
 
 ### Dataset
-- [Machine Predictive Maintenance](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
-
-### Tasks Completed
+- [DATASET](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification)
 
 1. **Data Preprocessing**
    - Application of preprocessing techniques to cleanse and standardize/normalize the data.

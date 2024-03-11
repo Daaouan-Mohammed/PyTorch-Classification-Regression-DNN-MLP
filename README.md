@@ -48,20 +48,25 @@ This repository contains the code and documentation for a comprehensive lab focu
  Use of data augmentation techniques to address class imbalances and enhance dataset balance.
 
 4. **Deep Neural Network Architecture**
-    Establishment of a PyTorch-based DNN architecture for handling multi-class classification, considering the unique characteristics of the machine predictive maintenance dataset.
+  
+  Establishment of a PyTorch-based DNN architecture for handling multi-class classification, considering the unique characteristics of the machine predictive maintenance dataset.
 
 5. **Hyperparameter Tuning with GridSearch**
-    Utilization of GridSearch to pinpoint optimal hyperparameters, further refining model efficiency.
+  
+  Utilization of GridSearch to pinpoint optimal hyperparameters, further refining model efficiency.
 
 6. **Visualization**
-    Visualization of Loss vs. Epochs and Accuracy vs. Epochs for both training and test datasets.
+  
+  Visualization of Loss vs. Epochs and Accuracy vs. Epochs for both training and test datasets.
     Presentation of interpretations based on observed trends.
 
 7. **Metrics Calculation**
-    Computation of key metrics such as accuracy, sensitivity, and F1 score on both training and test datasets.
+  
+  Computation of key metrics such as accuracy, sensitivity, and F1 score on both training and test datasets.
 
 8. **Regularization Techniques**
-    Application of various regularization techniques to the architecture.
+  
+  Application of various regularization techniques to the architecture.
     Comparative analysis with the initial non-regularized model.
 
 ## Conclusion
